@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+![image](https://user-images.githubusercontent.com/75646636/170853435-9d991970-27ed-40cd-b341-d558ce3967b7.png)
+# Start your next react project in seconds
+A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
